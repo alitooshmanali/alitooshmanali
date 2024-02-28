@@ -1,4 +1,9 @@
-### Hi there 👋
+Skilled and experienced software developer with over 8 years of experience in .NET
+programming. Specialized in web application and enterprise software development.
+Proficient in C#, ASP.NET, MVC, SQL Server, and more. Strong team player with the
+ability to collaborate on multi-member and large-scale projects. Focus on code
+quality and high performance.
+
 
 <!--
 **alitooshmanali/alitooshmanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
